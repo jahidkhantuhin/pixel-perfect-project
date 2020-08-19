@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("../font/Poppins-Bold.eot") format("eot"),
+    url("../font/Poppins-Bold.woff") format("woff"),
+    url("../font/Poppins-Bold.ttf") format("truetype"),
+    url("../font/Poppins-Bold.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-Italic";
+  src: url("../font/Poppins-Italic.eot") format("eot"),
+    url("../font/Poppins-Italic.woff") format("woff"),
+    url("../font/Poppins-Italic.ttf") format("truetype"),
+    url("../font/Poppins-Italic.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-Light";
+  src: url("../font/Poppins-Light.eot") format("eot"),
+    url("../font/Poppins-Light.woff") format("woff"),
+    url("../font/Poppins-Light.ttf") format("truetype"),
+    url("../font/Poppins-Light.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("../font/Poppins-Regular.eot") format("eot"),
+    url("../font/Poppins-Regular.woff") format("woff"),
+    url("../font/Poppins-Regular.ttf") format("truetype"),
+    url("../font/Poppins-Regular.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("../font/Poppins-SemiBold.eot") format("eot"),
+    url("../font/Poppins-SemiBold.woff") format("woff"),
+    url("../font/Poppins-SemiBold.ttf") format("truetype"),
+    url("../font/Poppins-SemiBold.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url("../font/Poppins-Medium.eot") format("eot"),
+    url("../font/Poppins-Medium.woff") format("woff"),
+    url("../font/Poppins-Medium.ttf") format("truetype"),
+    url("../font/Poppins-Medium.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-ExtraLight";
+  src: url("../font/Poppins-ExtraLight.eot") format("eot"),
+    url("../font/Poppins-ExtraLight.woff") format("woff"),
+    url("../font/Poppins-ExtraLight.ttf") format("truetype"),
+    url("../font/Poppins-ExtraLight.svg#lato") format("svg");
+}
+@font-face {
+  font-family: "Poppins-LightItalic";
+  src: url("../font/Poppins-LightItalic.eot") format("eot"),
+    url("../font/Poppins-LightItalic.woff") format("woff"),
+    url("../font/Poppins-LightItalic.ttf") format("truetype"),
+    url("../font/Poppins-LightItalic.svg#lato") format("svg");
+}
