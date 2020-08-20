@@ -19,6 +19,7 @@ body {
 .main-bg {
   width: 100%;
 }
+/* Header part start */
 header nav {
   float: left;
   width: 100%;
@@ -53,7 +54,9 @@ header nav ul li a {
   font-family: Poppins-Regular;
   font-size: 16px;
 }
+/* Header part end */
 
+/* Progress bar part start */
 .progressbar {
   font-family: Poppins-Regular;
   width: 100%;
@@ -125,6 +128,9 @@ header nav ul li a {
   font-size: 16px;
   margin-top: 35px;
 }
+/* Progress bar part end */
+
+/* Video description part start */
 .video-desc {
   width: 100%;
   height: 850px;
@@ -162,6 +168,9 @@ header nav ul li a {
   width: 800px;
   margin-top: 50px;
 }
+/* Video description part end */
+
+/* Informative content part start */
 .info-content {
   width: 100%;
   height: 2710px;
@@ -228,6 +237,9 @@ header nav ul li a {
   height: 850px;
   margin: auto;
 }
+/* Informative content part end */
+
+/* Available services part start */
 .available-services-bg {
   width: 100%;
   height: 270px;
@@ -261,6 +273,9 @@ header nav ul li a {
 .available-services ul li p {
   font-family: Poppins-Light;
 }
+/* Available services part end */
+
+/* Available packages part start */
 .all-packages-bg {
   width: 100%;
   height: 1500px;
@@ -326,6 +341,9 @@ header nav ul li a {
   font-size: 16px;
   margin-top: 60px;
 }
+/* Available packages part end */
+
+/* Footer part start */
 .footer-bg {
   width: 100%;
   height: 540px;
@@ -377,3 +395,4 @@ footer ul h4 {
   margin-left: 840px;
   font-size: 16px;
 }
+/* Footer part end */
